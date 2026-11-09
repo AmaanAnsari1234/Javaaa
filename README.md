@@ -1,5 +1,3 @@
 # Javaaaaaaa
-
-Daily practice.
-
+Daily practice
 
